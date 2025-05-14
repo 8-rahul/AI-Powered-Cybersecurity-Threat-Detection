@@ -62,7 +62,7 @@ The API will respond with a predicted energy value:
 ```
 jason
 {
-    "Threat_Detected": false
+    "Threat_Detected": True
 }
 ```
 ## 📸 Preview -
